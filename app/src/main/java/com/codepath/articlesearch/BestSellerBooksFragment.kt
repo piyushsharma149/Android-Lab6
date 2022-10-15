@@ -23,6 +23,7 @@ import org.json.JSONObject
 // CHANGE THIS TO BE YOUR API KEY  //
 // --------------------------------//
 private const val API_KEY = BuildConfig.API_KEY
+//private const val API_KEY = "JpnCPZTktXAJeznbwzXBpeN8nVCZIt2x"
 /*
  * The class for the only fragment in the app, which contains the progress bar,
  * recyclerView, and performs the network calls to the NY Times API.
